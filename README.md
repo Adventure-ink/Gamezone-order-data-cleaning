@@ -1,6 +1,6 @@
 # 🧹 GameZone Orders – Excel-Based Data Cleaning Project
 
-This project focuses on cleaning and structuring raw e-commerce order data from GameZone using **Microsoft Excel**. The raw data was transformed into a clean, analysis-ready format by resolving inconsistencies, standardizing formats, and enriching the dataset with regional data.
+This project focuses on cleaning and structuring raw e-commerce order data of 20,000 rows from GameZone using **Microsoft Excel**. The raw data was transformed into a clean, analysis-ready format by resolving inconsistencies, standardizing formats, and enriching the dataset with regional data.
 
 ---
 
@@ -47,7 +47,7 @@ Summarizes order data by region, platform, or other categories to support quick 
 ## 🛠 Tools Used
 
 - **Microsoft Excel**
-  - Power Query
+  - Formulas
   - Conditional formatting
   - Data validation
   - Pivot tables
